@@ -9,3 +9,6 @@ env/
 .pytest_cache/
 outputs/
 .DS_Store
+
+.env
+.venv/

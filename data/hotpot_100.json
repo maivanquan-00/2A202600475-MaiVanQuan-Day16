@@ -1,0 +1,1602 @@
+[
+    {
+        "qid": "bio1",
+        "difficulty": "easy",
+        "question": "Which protein is encoded by the gene mutated in cystic fibrosis?",
+        "gold_answer": "CFTR protein",
+        "context": [
+            {
+                "title": "Cystic Fibrosis",
+                "text": "Cystic fibrosis is caused by mutations in the CFTR gene."
+            },
+            {
+                "title": "CFTR gene",
+                "text": "The CFTR gene encodes the CFTR protein, a chloride channel."
+            }
+        ]
+    },
+    {
+        "qid": "bio2",
+        "difficulty": "easy",
+        "question": "Which hormone is produced by the gene responsible for insulin synthesis?",
+        "gold_answer": "insulin",
+        "context": [
+            {
+                "title": "INS gene",
+                "text": "The INS gene encodes insulin."
+            },
+            {
+                "title": "Insulin",
+                "text": "Insulin is a hormone that regulates blood glucose levels."
+            }
+        ]
+    },
+    {
+        "qid": "bio3",
+        "difficulty": "easy",
+        "question": "What type of biomolecule is hemoglobin, which is encoded by the HBB gene?",
+        "gold_answer": "protein",
+        "context": [
+            {
+                "title": "HBB gene",
+                "text": "The HBB gene encodes the beta chain of hemoglobin."
+            },
+            {
+                "title": "Hemoglobin",
+                "text": "Hemoglobin is a protein that carries oxygen in red blood cells."
+            }
+        ]
+    },
+    {
+        "qid": "bio4",
+        "difficulty": "medium",
+        "question": "Which cellular process uses RNA produced from transcription to synthesize proteins?",
+        "gold_answer": "translation",
+        "context": [
+            {
+                "title": "Transcription",
+                "text": "Transcription produces RNA from a DNA template."
+            },
+            {
+                "title": "Translation",
+                "text": "Translation uses mRNA to synthesize proteins at ribosomes."
+            }
+        ]
+    },
+    {
+        "qid": "bio5",
+        "difficulty": "easy",
+        "question": "Which organelle contains DNA that undergoes transcription in eukaryotic cells?",
+        "gold_answer": "nucleus",
+        "context": [
+            {
+                "title": "DNA location",
+                "text": "In eukaryotic cells, DNA is located in the nucleus."
+            },
+            {
+                "title": "Transcription",
+                "text": "Transcription occurs in the nucleus."
+            }
+        ]
+    },
+    {
+        "qid": "bio6",
+        "difficulty": "medium",
+        "question": "Which disease is associated with mutations in the BRCA1 gene involved in DNA repair?",
+        "gold_answer": "breast cancer",
+        "context": [
+            {
+                "title": "BRCA1",
+                "text": "BRCA1 plays a role in repairing DNA damage."
+            },
+            {
+                "title": "BRCA1 mutations",
+                "text": "Mutations in BRCA1 increase the risk of breast cancer."
+            }
+        ]
+    },
+    {
+        "qid": "bio7",
+        "difficulty": "easy",
+        "question": "What macromolecule is synthesized during the process of translation?",
+        "gold_answer": "protein",
+        "context": [
+            {
+                "title": "Translation",
+                "text": "Translation is the synthesis of proteins from mRNA."
+            },
+            {
+                "title": "Proteins",
+                "text": "Proteins are composed of amino acids."
+            }
+        ]
+    },
+    {
+        "qid": "bio8",
+        "difficulty": "medium",
+        "question": "Which cellular structure performs protein synthesis using mRNA as a template?",
+        "gold_answer": "ribosome",
+        "context": [
+            {
+                "title": "Ribosome",
+                "text": "Ribosomes are responsible for protein synthesis."
+            },
+            {
+                "title": "mRNA",
+                "text": "mRNA provides the sequence information for protein synthesis."
+            }
+        ]
+    },
+    {
+        "qid": "bio9",
+        "difficulty": "easy",
+        "question": "Which molecule carries genetic instructions from DNA to ribosomes for protein synthesis?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "mRNA",
+                "text": "mRNA transports genetic information from DNA to ribosomes."
+            },
+            {
+                "title": "Ribosome function",
+                "text": "Ribosomes read mRNA to synthesize proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio10",
+        "difficulty": "medium",
+        "question": "Which process converts glucose into ATP in cells?",
+        "gold_answer": "cellular respiration",
+        "context": [
+            {
+                "title": "Glucose",
+                "text": "Glucose is a key energy source for cells."
+            },
+            {
+                "title": "Cellular respiration",
+                "text": "Cellular respiration converts glucose into ATP."
+            }
+        ]
+    },
+    {
+        "qid": "bio11",
+        "difficulty": "easy",
+        "question": "Which organelle produces ATP through cellular respiration?",
+        "gold_answer": "mitochondria",
+        "context": [
+            {
+                "title": "Mitochondria",
+                "text": "Mitochondria generate ATP through cellular respiration."
+            },
+            {
+                "title": "ATP",
+                "text": "ATP is the main energy currency of the cell."
+            }
+        ]
+    },
+    {
+        "qid": "bio12",
+        "difficulty": "medium",
+        "question": "Which macromolecule is broken down into amino acids during digestion?",
+        "gold_answer": "protein",
+        "context": [
+            {
+                "title": "Protein digestion",
+                "text": "Proteins are digested into amino acids."
+            },
+            {
+                "title": "Amino acids",
+                "text": "Amino acids are building blocks of proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio13",
+        "difficulty": "easy",
+        "question": "Which nucleic acid stores genetic information and is double-stranded?",
+        "gold_answer": "DNA",
+        "context": [
+            {
+                "title": "DNA",
+                "text": "DNA is a double-stranded molecule storing genetic information."
+            },
+            {
+                "title": "Genetic storage",
+                "text": "Genetic information is encoded in DNA sequences."
+            }
+        ]
+    },
+    {
+        "qid": "bio14",
+        "difficulty": "medium",
+        "question": "Which enzyme synthesizes RNA during transcription?",
+        "gold_answer": "RNA polymerase",
+        "context": [
+            {
+                "title": "Transcription",
+                "text": "Transcription is the process of synthesizing RNA from DNA."
+            },
+            {
+                "title": "RNA polymerase",
+                "text": "RNA polymerase catalyzes RNA synthesis."
+            }
+        ]
+    },
+    {
+        "qid": "bio15",
+        "difficulty": "hard",
+        "question": "Which metabolic pathway begins with glucose phosphorylation by hexokinase?",
+        "gold_answer": "glycolysis",
+        "context": [
+            {
+                "title": "Hexokinase",
+                "text": "Hexokinase catalyzes the phosphorylation of glucose."
+            },
+            {
+                "title": "Glycolysis",
+                "text": "Glycolysis begins with glucose phosphorylation and breaks it down into pyruvate."
+            }
+        ]
+    },
+    {
+        "qid": "bio16",
+        "difficulty": "easy",
+        "question": "Which molecule acts as the final electron acceptor in the electron transport chain?",
+        "gold_answer": "oxygen",
+        "context": [
+            {
+                "title": "Electron transport chain",
+                "text": "The electron transport chain transfers electrons to oxygen."
+            },
+            {
+                "title": "Oxygen",
+                "text": "Oxygen accepts electrons and forms water."
+            }
+        ]
+    },
+    {
+        "qid": "bio17",
+        "difficulty": "medium",
+        "question": "Which disease results from infection by HIV that damages the immune system?",
+        "gold_answer": "AIDS",
+        "context": [
+            {
+                "title": "HIV",
+                "text": "HIV infects and destroys immune cells."
+            },
+            {
+                "title": "AIDS",
+                "text": "AIDS is the advanced stage of HIV infection."
+            }
+        ]
+    },
+    {
+        "qid": "bio18",
+        "difficulty": "hard",
+        "question": "Which organelle contains ribosomes and assists in protein folding after synthesis?",
+        "gold_answer": "rough endoplasmic reticulum",
+        "context": [
+            {
+                "title": "Rough ER",
+                "text": "The rough endoplasmic reticulum is studded with ribosomes."
+            },
+            {
+                "title": "Protein folding",
+                "text": "Proteins begin folding in the rough ER."
+            }
+        ]
+    },
+    {
+        "qid": "bio19",
+        "difficulty": "medium",
+        "question": "Which molecule serves as the template for synthesizing new DNA strands?",
+        "gold_answer": "DNA",
+        "context": [
+            {
+                "title": "DNA replication",
+                "text": "DNA replication uses an existing strand as a template."
+            },
+            {
+                "title": "Template strand",
+                "text": "The template strand guides synthesis of a new DNA strand."
+            }
+        ]
+    },
+    {
+        "qid": "bio20",
+        "difficulty": "hard",
+        "question": "Which metabolic cycle occurs in mitochondria after glycolysis and produces NADH?",
+        "gold_answer": "Krebs cycle",
+        "context": [
+            {
+                "title": "Glycolysis",
+                "text": "Glycolysis produces pyruvate in the cytoplasm."
+            },
+            {
+                "title": "Krebs cycle",
+                "text": "The Krebs cycle occurs in mitochondria and generates NADH."
+            }
+        ]
+    },
+    {
+        "qid": "bio21",
+        "difficulty": "easy",
+        "question": "Which protein is produced from mRNA during translation at ribosomes?",
+        "gold_answer": "protein",
+        "context": [
+            {
+                "title": "mRNA",
+                "text": "mRNA carries genetic information from DNA to ribosomes."
+            },
+            {
+                "title": "Translation",
+                "text": "During translation, ribosomes use mRNA to synthesize proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio22",
+        "difficulty": "easy",
+        "question": "Which structure contains chromosomes that are made of DNA?",
+        "gold_answer": "nucleus",
+        "context": [
+            {
+                "title": "Chromosomes",
+                "text": "Chromosomes are composed of DNA molecules."
+            },
+            {
+                "title": "Nucleus",
+                "text": "The nucleus contains chromosomes in eukaryotic cells."
+            }
+        ]
+    },
+    {
+        "qid": "bio23",
+        "difficulty": "medium",
+        "question": "Which process produces RNA that is later used to synthesize proteins?",
+        "gold_answer": "transcription",
+        "context": [
+            {
+                "title": "RNA",
+                "text": "RNA is required for protein synthesis."
+            },
+            {
+                "title": "Transcription",
+                "text": "Transcription produces RNA from DNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio24",
+        "difficulty": "medium",
+        "question": "Which molecule is generated from glucose during glycolysis and then enters the Krebs cycle?",
+        "gold_answer": "pyruvate",
+        "context": [
+            {
+                "title": "Glycolysis",
+                "text": "Glycolysis converts glucose into pyruvate."
+            },
+            {
+                "title": "Krebs cycle",
+                "text": "Pyruvate is further processed before entering the Krebs cycle."
+            }
+        ]
+    },
+    {
+        "qid": "bio25",
+        "difficulty": "medium",
+        "question": "Which molecule is synthesized from DNA and then used as a template for protein production?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "Transcription",
+                "text": "DNA is transcribed into mRNA."
+            },
+            {
+                "title": "Translation",
+                "text": "mRNA is used as a template to synthesize proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio26",
+        "difficulty": "easy",
+        "question": "Which organelle contains enzymes for the Krebs cycle?",
+        "gold_answer": "mitochondria",
+        "context": [
+            {
+                "title": "Krebs cycle",
+                "text": "The Krebs cycle occurs in the mitochondria."
+            },
+            {
+                "title": "Mitochondria",
+                "text": "Mitochondria contain enzymes for energy production."
+            }
+        ]
+    },
+    {
+        "qid": "bio27",
+        "difficulty": "medium",
+        "question": "Which enzyme is responsible for unwinding DNA during replication?",
+        "gold_answer": "helicase",
+        "context": [
+            {
+                "title": "DNA replication",
+                "text": "DNA replication requires unwinding of the double helix."
+            },
+            {
+                "title": "Helicase",
+                "text": "Helicase unwinds DNA strands during replication."
+            }
+        ]
+    },
+    {
+        "qid": "bio28",
+        "difficulty": "hard",
+        "question": "Which cellular process involves helicase and results in two identical DNA molecules?",
+        "gold_answer": "DNA replication",
+        "context": [
+            {
+                "title": "Helicase",
+                "text": "Helicase separates DNA strands."
+            },
+            {
+                "title": "DNA replication",
+                "text": "DNA replication produces two identical DNA molecules."
+            }
+        ]
+    },
+    {
+        "qid": "bio29",
+        "difficulty": "medium",
+        "question": "Which molecule donates phosphate groups to produce ATP during cellular respiration?",
+        "gold_answer": "ADP",
+        "context": [
+            {
+                "title": "ATP formation",
+                "text": "ATP is formed by adding a phosphate group to ADP."
+            },
+            {
+                "title": "ADP",
+                "text": "ADP accepts a phosphate group to become ATP."
+            }
+        ]
+    },
+    {
+        "qid": "bio30",
+        "difficulty": "medium",
+        "question": "Which stage of cellular respiration directly uses oxygen to produce water?",
+        "gold_answer": "electron transport chain",
+        "context": [
+            {
+                "title": "Oxygen role",
+                "text": "Oxygen acts as the final electron acceptor."
+            },
+            {
+                "title": "Electron transport chain",
+                "text": "The electron transport chain uses oxygen to form water."
+            }
+        ]
+    },
+    {
+        "qid": "bio31",
+        "difficulty": "easy",
+        "question": "Which molecule is composed of amino acids and functions as enzymes in cells?",
+        "gold_answer": "protein",
+        "context": [
+            {
+                "title": "Amino acids",
+                "text": "Amino acids are building blocks of proteins."
+            },
+            {
+                "title": "Proteins",
+                "text": "Many proteins function as enzymes."
+            }
+        ]
+    },
+    {
+        "qid": "bio32",
+        "difficulty": "medium",
+        "question": "Which pathway breaks down glucose to generate ATP in the absence of oxygen?",
+        "gold_answer": "glycolysis",
+        "context": [
+            {
+                "title": "Anaerobic conditions",
+                "text": "Cells can produce ATP without oxygen."
+            },
+            {
+                "title": "Glycolysis",
+                "text": "Glycolysis produces ATP without requiring oxygen."
+            }
+        ]
+    },
+    {
+        "qid": "bio33",
+        "difficulty": "hard",
+        "question": "Which molecule carries high-energy electrons from glycolysis to the electron transport chain?",
+        "gold_answer": "NADH",
+        "context": [
+            {
+                "title": "Glycolysis",
+                "text": "Glycolysis produces NADH."
+            },
+            {
+                "title": "Electron transport chain",
+                "text": "NADH donates electrons to the electron transport chain."
+            }
+        ]
+    },
+    {
+        "qid": "bio34",
+        "difficulty": "medium",
+        "question": "Which enzyme synthesizes DNA during replication?",
+        "gold_answer": "DNA polymerase",
+        "context": [
+            {
+                "title": "DNA synthesis",
+                "text": "New DNA strands are synthesized during replication."
+            },
+            {
+                "title": "DNA polymerase",
+                "text": "DNA polymerase adds nucleotides to form new DNA strands."
+            }
+        ]
+    },
+    {
+        "qid": "bio35",
+        "difficulty": "hard",
+        "question": "Which cellular process uses DNA polymerase and results in duplicated chromosomes?",
+        "gold_answer": "DNA replication",
+        "context": [
+            {
+                "title": "DNA polymerase",
+                "text": "DNA polymerase is essential for copying DNA."
+            },
+            {
+                "title": "DNA replication",
+                "text": "DNA replication duplicates chromosomes before cell division."
+            }
+        ]
+    },
+    {
+        "qid": "bio36",
+        "difficulty": "medium",
+        "question": "Which molecule is the primary energy currency produced by cellular respiration?",
+        "gold_answer": "ATP",
+        "context": [
+            {
+                "title": "Cellular respiration",
+                "text": "Cellular respiration produces ATP."
+            },
+            {
+                "title": "ATP",
+                "text": "ATP stores and provides energy for cellular processes."
+            }
+        ]
+    },
+    {
+        "qid": "bio37",
+        "difficulty": "easy",
+        "question": "Which nucleic acid is single-stranded and involved in protein synthesis?",
+        "gold_answer": "RNA",
+        "context": [
+            {
+                "title": "RNA",
+                "text": "RNA is typically single-stranded."
+            },
+            {
+                "title": "Protein synthesis",
+                "text": "RNA plays a role in protein synthesis."
+            }
+        ]
+    },
+    {
+        "qid": "bio38",
+        "difficulty": "medium",
+        "question": "Which structure modifies proteins after they are synthesized in the rough ER?",
+        "gold_answer": "Golgi apparatus",
+        "context": [
+            {
+                "title": "Rough ER",
+                "text": "Proteins are synthesized in the rough ER."
+            },
+            {
+                "title": "Golgi apparatus",
+                "text": "The Golgi apparatus modifies and packages proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio39",
+        "difficulty": "hard",
+        "question": "Which cellular structure contains enzymes for protein degradation and recycling?",
+        "gold_answer": "lysosome",
+        "context": [
+            {
+                "title": "Protein degradation",
+                "text": "Cells break down proteins into smaller components."
+            },
+            {
+                "title": "Lysosome",
+                "text": "Lysosomes contain enzymes for degradation and recycling."
+            }
+        ]
+    },
+    {
+        "qid": "bio40",
+        "difficulty": "medium",
+        "question": "Which process converts pyruvate into acetyl-CoA before entering the Krebs cycle?",
+        "gold_answer": "pyruvate oxidation",
+        "context": [
+            {
+                "title": "Pyruvate",
+                "text": "Pyruvate is produced during glycolysis."
+            },
+            {
+                "title": "Pyruvate oxidation",
+                "text": "Pyruvate is converted into acetyl-CoA before the Krebs cycle."
+            }
+        ]
+    },
+    {
+        "qid": "bio41",
+        "difficulty": "medium",
+        "question": "Which molecule binds to DNA to regulate gene expression and can either activate or repress transcription?",
+        "gold_answer": "transcription factor",
+        "context": [
+            {
+                "title": "Gene regulation",
+                "text": "Gene expression is controlled by proteins that bind DNA."
+            },
+            {
+                "title": "Transcription factor",
+                "text": "Transcription factors bind DNA to activate or repress transcription."
+            }
+        ]
+    },
+    {
+        "qid": "bio42",
+        "difficulty": "easy",
+        "question": "Which molecule is transcribed from DNA and later translated into protein?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "Transcription",
+                "text": "DNA is transcribed into mRNA."
+            },
+            {
+                "title": "Translation",
+                "text": "mRNA is used to synthesize proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio43",
+        "difficulty": "medium",
+        "question": "Which process involves transcription factors binding to promoter regions to initiate transcription?",
+        "gold_answer": "transcription initiation",
+        "context": [
+            {
+                "title": "Promoter",
+                "text": "Promoters are DNA regions where transcription factors bind."
+            },
+            {
+                "title": "Transcription initiation",
+                "text": "Transcription initiation begins when transcription factors bind promoters."
+            }
+        ]
+    },
+    {
+        "qid": "bio44",
+        "difficulty": "hard",
+        "question": "Which biological process involves RNA polymerase and results in the synthesis of mRNA from DNA?",
+        "gold_answer": "transcription",
+        "context": [
+            {
+                "title": "RNA polymerase",
+                "text": "RNA polymerase synthesizes RNA using a DNA template."
+            },
+            {
+                "title": "mRNA synthesis",
+                "text": "mRNA is produced during transcription."
+            }
+        ]
+    },
+    {
+        "qid": "bio45",
+        "difficulty": "medium",
+        "question": "Which type of mutation results in a change in a single amino acid in a protein sequence?",
+        "gold_answer": "missense mutation",
+        "context": [
+            {
+                "title": "Mutation types",
+                "text": "Mutations can alter DNA sequences."
+            },
+            {
+                "title": "Missense mutation",
+                "text": "A missense mutation changes one amino acid in a protein."
+            }
+        ]
+    },
+    {
+        "qid": "bio46",
+        "difficulty": "hard",
+        "question": "Which mutation introduces a premature stop codon, leading to truncated proteins?",
+        "gold_answer": "nonsense mutation",
+        "context": [
+            {
+                "title": "Stop codon",
+                "text": "Stop codons signal termination of translation."
+            },
+            {
+                "title": "Nonsense mutation",
+                "text": "Nonsense mutations create premature stop codons."
+            }
+        ]
+    },
+    {
+        "qid": "bio47",
+        "difficulty": "medium",
+        "question": "Which pathway transmits signals from cell surface receptors to the nucleus to affect gene expression?",
+        "gold_answer": "signal transduction pathway",
+        "context": [
+            {
+                "title": "Cell signaling",
+                "text": "Cells respond to signals through pathways."
+            },
+            {
+                "title": "Signal transduction",
+                "text": "Signal transduction pathways transmit signals to regulate gene expression."
+            }
+        ]
+    },
+    {
+        "qid": "bio48",
+        "difficulty": "easy",
+        "question": "Which molecule acts as a messenger between DNA and protein synthesis?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "Central dogma",
+                "text": "Genetic information flows from DNA to RNA to protein."
+            },
+            {
+                "title": "mRNA",
+                "text": "mRNA carries information from DNA to ribosomes."
+            }
+        ]
+    },
+    {
+        "qid": "bio49",
+        "difficulty": "medium",
+        "question": "Which process converts pre-mRNA into mature mRNA by removing introns?",
+        "gold_answer": "RNA splicing",
+        "context": [
+            {
+                "title": "Pre-mRNA",
+                "text": "Pre-mRNA contains introns and exons."
+            },
+            {
+                "title": "RNA splicing",
+                "text": "RNA splicing removes introns to form mature mRNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio50",
+        "difficulty": "hard",
+        "question": "Which cellular mechanism ensures only correctly processed mRNA is exported from the nucleus?",
+        "gold_answer": "RNA quality control",
+        "context": [
+            {
+                "title": "mRNA processing",
+                "text": "mRNA must be properly processed before leaving the nucleus."
+            },
+            {
+                "title": "RNA quality control",
+                "text": "Cells use RNA quality control to ensure proper mRNA export."
+            }
+        ]
+    },
+    {
+        "qid": "bio51",
+        "difficulty": "medium",
+        "question": "Which molecule carries amino acids to the ribosome during protein synthesis?",
+        "gold_answer": "tRNA",
+        "context": [
+            {
+                "title": "Protein synthesis",
+                "text": "Protein synthesis requires amino acids."
+            },
+            {
+                "title": "tRNA",
+                "text": "tRNA transports amino acids to ribosomes."
+            }
+        ]
+    },
+    {
+        "qid": "bio52",
+        "difficulty": "easy",
+        "question": "Which structure is responsible for decoding mRNA into a polypeptide chain?",
+        "gold_answer": "ribosome",
+        "context": [
+            {
+                "title": "mRNA",
+                "text": "mRNA contains codons that specify amino acids."
+            },
+            {
+                "title": "Ribosome",
+                "text": "Ribosomes decode mRNA into proteins."
+            }
+        ]
+    },
+    {
+        "qid": "bio53",
+        "difficulty": "medium",
+        "question": "Which molecule binds to codons on mRNA to add the correct amino acid during translation?",
+        "gold_answer": "tRNA",
+        "context": [
+            {
+                "title": "Codon",
+                "text": "Codons are sequences on mRNA."
+            },
+            {
+                "title": "tRNA",
+                "text": "tRNA matches codons with the correct amino acids."
+            }
+        ]
+    },
+    {
+        "qid": "bio54",
+        "difficulty": "hard",
+        "question": "Which biological process ensures the correct sequence of amino acids is assembled based on mRNA codons?",
+        "gold_answer": "translation",
+        "context": [
+            {
+                "title": "mRNA codons",
+                "text": "Codons specify amino acid sequences."
+            },
+            {
+                "title": "Translation",
+                "text": "Translation assembles amino acids into proteins based on mRNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio55",
+        "difficulty": "medium",
+        "question": "Which regulatory element is located upstream of a gene and controls transcription?",
+        "gold_answer": "promoter",
+        "context": [
+            {
+                "title": "Gene structure",
+                "text": "Genes contain regulatory regions."
+            },
+            {
+                "title": "Promoter",
+                "text": "Promoters control the initiation of transcription."
+            }
+        ]
+    },
+    {
+        "qid": "bio56",
+        "difficulty": "hard",
+        "question": "Which DNA-binding protein complex is required to initiate transcription in eukaryotes?",
+        "gold_answer": "transcription factor complex",
+        "context": [
+            {
+                "title": "Transcription factors",
+                "text": "Transcription factors bind DNA to regulate transcription."
+            },
+            {
+                "title": "Initiation complex",
+                "text": "A transcription factor complex is needed to start transcription."
+            }
+        ]
+    },
+    {
+        "qid": "bio57",
+        "difficulty": "medium",
+        "question": "Which mutation type does not change the amino acid sequence despite altering the DNA sequence?",
+        "gold_answer": "silent mutation",
+        "context": [
+            {
+                "title": "Genetic code",
+                "text": "Multiple codons can encode the same amino acid."
+            },
+            {
+                "title": "Silent mutation",
+                "text": "Silent mutations do not change the amino acid sequence."
+            }
+        ]
+    },
+    {
+        "qid": "bio58",
+        "difficulty": "easy",
+        "question": "Which molecule contains codons that specify amino acids during protein synthesis?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "Codon",
+                "text": "Codons are triplets that encode amino acids."
+            },
+            {
+                "title": "mRNA",
+                "text": "mRNA contains codons read during translation."
+            }
+        ]
+    },
+    {
+        "qid": "bio59",
+        "difficulty": "hard",
+        "question": "Which pathway is activated when extracellular signals bind to receptors and lead to changes in gene expression?",
+        "gold_answer": "signal transduction pathway",
+        "context": [
+            {
+                "title": "Receptors",
+                "text": "Cell surface receptors detect external signals."
+            },
+            {
+                "title": "Signal transduction",
+                "text": "Signal transduction pathways convert signals into gene expression changes."
+            }
+        ]
+    },
+    {
+        "qid": "bio60",
+        "difficulty": "medium",
+        "question": "Which cellular process produces a complementary RNA strand from a DNA template?",
+        "gold_answer": "transcription",
+        "context": [
+            {
+                "title": "DNA template",
+                "text": "DNA serves as a template for RNA synthesis."
+            },
+            {
+                "title": "Transcription",
+                "text": "Transcription produces RNA from DNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio61",
+        "difficulty": "medium",
+        "question": "Which process measures gene activity by quantifying RNA levels in a cell?",
+        "gold_answer": "gene expression analysis",
+        "context": [
+            {
+                "title": "Gene expression",
+                "text": "Gene expression refers to the production of RNA from genes."
+            },
+            {
+                "title": "Gene expression analysis",
+                "text": "Gene expression analysis measures RNA levels to determine gene activity."
+            }
+        ]
+    },
+    {
+        "qid": "bio62",
+        "difficulty": "easy",
+        "question": "Which molecule level is typically measured to determine gene expression?",
+        "gold_answer": "mRNA",
+        "context": [
+            {
+                "title": "Gene expression",
+                "text": "Gene expression results in RNA production."
+            },
+            {
+                "title": "mRNA",
+                "text": "mRNA levels are commonly used to measure gene expression."
+            }
+        ]
+    },
+    {
+        "qid": "bio63",
+        "difficulty": "medium",
+        "question": "Which sequencing technique is used to measure gene expression by sequencing RNA molecules?",
+        "gold_answer": "RNA-seq",
+        "context": [
+            {
+                "title": "RNA",
+                "text": "RNA reflects gene activity in cells."
+            },
+            {
+                "title": "RNA-seq",
+                "text": "RNA-seq is used to quantify gene expression by sequencing RNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio64",
+        "difficulty": "hard",
+        "question": "Which technology generates large-scale gene expression data by sequencing cDNA derived from RNA?",
+        "gold_answer": "RNA sequencing",
+        "context": [
+            {
+                "title": "cDNA",
+                "text": "cDNA is synthesized from RNA molecules."
+            },
+            {
+                "title": "RNA sequencing",
+                "text": "RNA sequencing analyzes cDNA to measure gene expression."
+            }
+        ]
+    },
+    {
+        "qid": "bio65",
+        "difficulty": "medium",
+        "question": "Which type of analysis identifies genes that show different expression levels between conditions?",
+        "gold_answer": "differential expression analysis",
+        "context": [
+            {
+                "title": "Gene expression comparison",
+                "text": "Gene expression can vary between conditions."
+            },
+            {
+                "title": "Differential expression",
+                "text": "Differential expression analysis identifies genes with significant changes."
+            }
+        ]
+    },
+    {
+        "qid": "bio66",
+        "difficulty": "hard",
+        "question": "Which bioinformatics approach groups genes with similar expression patterns across samples?",
+        "gold_answer": "clustering",
+        "context": [
+            {
+                "title": "Gene expression data",
+                "text": "Gene expression data can be compared across samples."
+            },
+            {
+                "title": "Clustering",
+                "text": "Clustering groups genes with similar expression patterns."
+            }
+        ]
+    },
+    {
+        "qid": "bio67",
+        "difficulty": "medium",
+        "question": "Which pathway is commonly activated in cancer cells to promote uncontrolled cell growth?",
+        "gold_answer": "cell cycle pathway",
+        "context": [
+            {
+                "title": "Cancer cells",
+                "text": "Cancer cells exhibit uncontrolled growth."
+            },
+            {
+                "title": "Cell cycle",
+                "text": "The cell cycle pathway regulates cell division."
+            }
+        ]
+    },
+    {
+        "qid": "bio68",
+        "difficulty": "hard",
+        "question": "Which gene category includes genes that promote cell division and can lead to cancer when overexpressed?",
+        "gold_answer": "oncogenes",
+        "context": [
+            {
+                "title": "Cell division",
+                "text": "Certain genes promote cell division."
+            },
+            {
+                "title": "Oncogenes",
+                "text": "Oncogenes drive cell proliferation and can cause cancer when overactive."
+            }
+        ]
+    },
+    {
+        "qid": "bio69",
+        "difficulty": "medium",
+        "question": "Which type of genes normally suppress tumor formation but can lead to cancer when inactivated?",
+        "gold_answer": "tumor suppressor genes",
+        "context": [
+            {
+                "title": "Tumor suppression",
+                "text": "Some genes prevent uncontrolled cell growth."
+            },
+            {
+                "title": "Tumor suppressor genes",
+                "text": "Loss of tumor suppressor gene function can lead to cancer."
+            }
+        ]
+    },
+    {
+        "qid": "bio70",
+        "difficulty": "hard",
+        "question": "Which process involves identifying mutations in DNA sequences associated with diseases?",
+        "gold_answer": "variant calling",
+        "context": [
+            {
+                "title": "DNA sequencing",
+                "text": "DNA sequencing reveals nucleotide sequences."
+            },
+            {
+                "title": "Variant calling",
+                "text": "Variant calling identifies mutations from sequencing data."
+            }
+        ]
+    },
+    {
+        "qid": "bio71",
+        "difficulty": "medium",
+        "question": "Which analysis identifies biological pathways enriched in a set of genes?",
+        "gold_answer": "pathway enrichment analysis",
+        "context": [
+            {
+                "title": "Gene sets",
+                "text": "Groups of genes can be analyzed together."
+            },
+            {
+                "title": "Pathway enrichment",
+                "text": "Pathway enrichment analysis finds overrepresented pathways."
+            }
+        ]
+    },
+    {
+        "qid": "bio72",
+        "difficulty": "hard",
+        "question": "Which database provides curated information about biological pathways such as metabolism and signaling?",
+        "gold_answer": "KEGG",
+        "context": [
+            {
+                "title": "Biological pathways",
+                "text": "Pathways describe interactions between molecules."
+            },
+            {
+                "title": "KEGG",
+                "text": "KEGG is a database of metabolic and signaling pathways."
+            }
+        ]
+    },
+    {
+        "qid": "bio73",
+        "difficulty": "medium",
+        "question": "Which analysis technique is used to reduce dimensionality of gene expression data for visualization?",
+        "gold_answer": "PCA",
+        "context": [
+            {
+                "title": "High-dimensional data",
+                "text": "Gene expression data can have many variables."
+            },
+            {
+                "title": "PCA",
+                "text": "Principal Component Analysis reduces dimensionality of data."
+            }
+        ]
+    },
+    {
+        "qid": "bio74",
+        "difficulty": "hard",
+        "question": "Which machine learning method groups similar samples without using labeled data?",
+        "gold_answer": "unsupervised learning",
+        "context": [
+            {
+                "title": "Machine learning",
+                "text": "Machine learning can analyze biological data."
+            },
+            {
+                "title": "Unsupervised learning",
+                "text": "Unsupervised learning finds patterns without labels."
+            }
+        ]
+    },
+    {
+        "qid": "bio75",
+        "difficulty": "medium",
+        "question": "Which visualization method displays gene expression values using color intensity in a matrix?",
+        "gold_answer": "heatmap",
+        "context": [
+            {
+                "title": "Gene expression data",
+                "text": "Gene expression can be represented numerically."
+            },
+            {
+                "title": "Heatmap",
+                "text": "Heatmaps visualize values using colors."
+            }
+        ]
+    },
+    {
+        "qid": "bio76",
+        "difficulty": "hard",
+        "question": "Which sequencing data analysis step aligns reads to a reference genome?",
+        "gold_answer": "sequence alignment",
+        "context": [
+            {
+                "title": "Sequencing reads",
+                "text": "Sequencing produces short reads."
+            },
+            {
+                "title": "Sequence alignment",
+                "text": "Reads are aligned to a reference genome."
+            }
+        ]
+    },
+    {
+        "qid": "bio77",
+        "difficulty": "medium",
+        "question": "Which file format stores aligned sequencing reads?",
+        "gold_answer": "BAM",
+        "context": [
+            {
+                "title": "Alignment",
+                "text": "Reads are aligned to a genome."
+            },
+            {
+                "title": "BAM file",
+                "text": "BAM files store aligned sequencing reads."
+            }
+        ]
+    },
+    {
+        "qid": "bio78",
+        "difficulty": "hard",
+        "question": "Which process identifies genetic variants after sequence alignment?",
+        "gold_answer": "variant calling",
+        "context": [
+            {
+                "title": "Sequence alignment",
+                "text": "Reads must be aligned before analysis."
+            },
+            {
+                "title": "Variant calling",
+                "text": "Variant calling detects differences from the reference genome."
+            }
+        ]
+    },
+    {
+        "qid": "bio79",
+        "difficulty": "medium",
+        "question": "Which biological concept refers to the interaction network between proteins?",
+        "gold_answer": "protein-protein interaction network",
+        "context": [
+            {
+                "title": "Proteins",
+                "text": "Proteins often interact with each other."
+            },
+            {
+                "title": "Protein interaction",
+                "text": "Protein-protein interaction networks describe these interactions."
+            }
+        ]
+    },
+    {
+        "qid": "bio80",
+        "difficulty": "hard",
+        "question": "Which analysis integrates multiple types of omics data such as genomics and transcriptomics?",
+        "gold_answer": "multi-omics integration",
+        "context": [
+            {
+                "title": "Omics data",
+                "text": "Different omics layers include genomics and transcriptomics."
+            },
+            {
+                "title": "Multi-omics",
+                "text": "Multi-omics integration combines multiple biological data types."
+            }
+        ]
+    },
+    {
+        "qid": "bio81",
+        "difficulty": "hard",
+        "question": "Which analysis step follows sequence alignment and is used to detect mutations in sequencing data?",
+        "gold_answer": "variant calling",
+        "context": [
+            {
+                "title": "Sequence alignment",
+                "text": "Sequencing reads are first aligned to a reference genome."
+            },
+            {
+                "title": "Variant calling",
+                "text": "Variant calling identifies mutations from aligned sequencing data."
+            }
+        ]
+    },
+    {
+        "qid": "bio82",
+        "difficulty": "hard",
+        "question": "Which biological interpretation step typically follows differential expression analysis to identify affected pathways?",
+        "gold_answer": "pathway enrichment analysis",
+        "context": [
+            {
+                "title": "Differential expression",
+                "text": "Differential expression identifies genes with significant changes."
+            },
+            {
+                "title": "Pathway enrichment",
+                "text": "Pathway enrichment analysis determines which biological pathways are affected."
+            }
+        ]
+    },
+    {
+        "qid": "bio83",
+        "difficulty": "medium",
+        "question": "Which sequencing-based method is used to quantify gene expression and produces reads that must be aligned?",
+        "gold_answer": "RNA-seq",
+        "context": [
+            {
+                "title": "Gene expression",
+                "text": "Gene expression can be measured by sequencing RNA."
+            },
+            {
+                "title": "RNA-seq",
+                "text": "RNA-seq produces reads that must be aligned to a genome."
+            }
+        ]
+    },
+    {
+        "qid": "bio84",
+        "difficulty": "hard",
+        "question": "Which process integrates results from RNA-seq and variant calling to understand disease mechanisms?",
+        "gold_answer": "multi-omics integration",
+        "context": [
+            {
+                "title": "RNA-seq",
+                "text": "RNA-seq provides gene expression information."
+            },
+            {
+                "title": "Multi-omics",
+                "text": "Multi-omics integration combines different data types to study disease."
+            }
+        ]
+    },
+    {
+        "qid": "bio85",
+        "difficulty": "medium",
+        "question": "Which type of gene is often overexpressed in cancer and promotes cell proliferation?",
+        "gold_answer": "oncogene",
+        "context": [
+            {
+                "title": "Cancer",
+                "text": "Cancer involves uncontrolled cell growth."
+            },
+            {
+                "title": "Oncogenes",
+                "text": "Oncogenes promote cell proliferation when overexpressed."
+            }
+        ]
+    },
+    {
+        "qid": "bio86",
+        "difficulty": "hard",
+        "question": "Which process identifies genes that are significantly upregulated in tumor samples compared to normal tissue?",
+        "gold_answer": "differential expression analysis",
+        "context": [
+            {
+                "title": "Tumor vs normal",
+                "text": "Gene expression differs between tumor and normal tissues."
+            },
+            {
+                "title": "Differential expression",
+                "text": "Differential expression analysis detects upregulated genes."
+            }
+        ]
+    },
+    {
+        "qid": "bio87",
+        "difficulty": "hard",
+        "question": "Which pipeline step converts RNA into cDNA before sequencing in RNA-seq experiments?",
+        "gold_answer": "reverse transcription",
+        "context": [
+            {
+                "title": "RNA",
+                "text": "RNA must be converted before sequencing."
+            },
+            {
+                "title": "Reverse transcription",
+                "text": "Reverse transcription converts RNA into cDNA."
+            }
+        ]
+    },
+    {
+        "qid": "bio88",
+        "difficulty": "medium",
+        "question": "Which file format is generated after sequence alignment and used for downstream analysis?",
+        "gold_answer": "BAM",
+        "context": [
+            {
+                "title": "Alignment",
+                "text": "Reads are aligned to a reference genome."
+            },
+            {
+                "title": "BAM",
+                "text": "BAM files store aligned sequencing data."
+            }
+        ]
+    },
+    {
+        "qid": "bio89",
+        "difficulty": "hard",
+        "question": "Which biological network analysis focuses on interactions between proteins involved in signaling pathways?",
+        "gold_answer": "protein-protein interaction network",
+        "context": [
+            {
+                "title": "Proteins",
+                "text": "Proteins interact in signaling pathways."
+            },
+            {
+                "title": "PPI network",
+                "text": "Protein-protein interaction networks model these interactions."
+            }
+        ]
+    },
+    {
+        "qid": "bio90",
+        "difficulty": "medium",
+        "question": "Which visualization method is commonly used to display clustering results of gene expression data?",
+        "gold_answer": "heatmap",
+        "context": [
+            {
+                "title": "Clustering",
+                "text": "Clustering groups genes or samples."
+            },
+            {
+                "title": "Heatmap",
+                "text": "Heatmaps visualize clustered gene expression data."
+            }
+        ]
+    },
+    {
+        "qid": "bio91",
+        "difficulty": "hard",
+        "question": "Which analysis step is used to identify low-quality reads before sequence alignment?",
+        "gold_answer": "quality control",
+        "context": [
+            {
+                "title": "Sequencing reads",
+                "text": "Sequencing produces raw reads."
+            },
+            {
+                "title": "Quality control",
+                "text": "Quality control filters low-quality reads before alignment."
+            }
+        ]
+    },
+    {
+        "qid": "bio92",
+        "difficulty": "hard",
+        "question": "Which statistical approach is used to determine whether observed gene expression changes are significant?",
+        "gold_answer": "statistical testing",
+        "context": [
+            {
+                "title": "Gene expression",
+                "text": "Expression levels vary across conditions."
+            },
+            {
+                "title": "Statistical testing",
+                "text": "Statistical testing determines significance of expression changes."
+            }
+        ]
+    },
+    {
+        "qid": "bio93",
+        "difficulty": "medium",
+        "question": "Which computational method reduces dimensionality before clustering gene expression data?",
+        "gold_answer": "PCA",
+        "context": [
+            {
+                "title": "Dimensionality reduction",
+                "text": "High-dimensional data can be simplified."
+            },
+            {
+                "title": "PCA",
+                "text": "Principal Component Analysis reduces dimensionality."
+            }
+        ]
+    },
+    {
+        "qid": "bio94",
+        "difficulty": "hard",
+        "question": "Which integration approach combines genomic mutations and gene expression data to better understand diseases?",
+        "gold_answer": "multi-omics integration",
+        "context": [
+            {
+                "title": "Genomics",
+                "text": "Genomics studies DNA mutations."
+            },
+            {
+                "title": "Multi-omics",
+                "text": "Multi-omics integrates genomics and transcriptomics data."
+            }
+        ]
+    },
+    {
+        "qid": "bio95",
+        "difficulty": "medium",
+        "question": "Which gene category prevents uncontrolled cell growth and is often inactivated in cancer?",
+        "gold_answer": "tumor suppressor gene",
+        "context": [
+            {
+                "title": "Cell growth control",
+                "text": "Some genes regulate cell division."
+            },
+            {
+                "title": "Tumor suppressor genes",
+                "text": "Tumor suppressor genes prevent uncontrolled growth."
+            }
+        ]
+    },
+    {
+        "qid": "bio96",
+        "difficulty": "hard",
+        "question": "Which analysis identifies patterns in gene expression without using labeled data?",
+        "gold_answer": "unsupervised learning",
+        "context": [
+            {
+                "title": "Gene expression",
+                "text": "Gene expression data can be analyzed computationally."
+            },
+            {
+                "title": "Unsupervised learning",
+                "text": "Unsupervised learning finds patterns without labels."
+            }
+        ]
+    },
+    {
+        "qid": "bio97",
+        "difficulty": "medium",
+        "question": "Which sequencing technique is used to detect DNA mutations across the genome?",
+        "gold_answer": "whole genome sequencing",
+        "context": [
+            {
+                "title": "DNA mutations",
+                "text": "Mutations occur in DNA sequences."
+            },
+            {
+                "title": "Whole genome sequencing",
+                "text": "Whole genome sequencing identifies mutations across the genome."
+            }
+        ]
+    },
+    {
+        "qid": "bio98",
+        "difficulty": "hard",
+        "question": "Which analysis step maps sequencing reads to a reference genome before variant detection?",
+        "gold_answer": "sequence alignment",
+        "context": [
+            {
+                "title": "Sequencing reads",
+                "text": "Reads must be processed before analysis."
+            },
+            {
+                "title": "Sequence alignment",
+                "text": "Alignment maps reads to a reference genome."
+            }
+        ]
+    },
+    {
+        "qid": "bio99",
+        "difficulty": "medium",
+        "question": "Which analysis identifies groups of genes with similar expression patterns across samples?",
+        "gold_answer": "clustering",
+        "context": [
+            {
+                "title": "Gene expression data",
+                "text": "Expression patterns vary across samples."
+            },
+            {
+                "title": "Clustering",
+                "text": "Clustering groups genes with similar patterns."
+            }
+        ]
+    },
+    {
+        "qid": "bio100",
+        "difficulty": "hard",
+        "question": "Which pipeline combines quality control, alignment, and variant calling to analyze sequencing data?",
+        "gold_answer": "genomic data analysis pipeline",
+        "context": [
+            {
+                "title": "Sequencing workflow",
+                "text": "Sequencing analysis involves multiple steps."
+            },
+            {
+                "title": "Pipeline",
+                "text": "A genomic data analysis pipeline includes quality control, alignment, and variant calling."
+            }
+        ]
+    }
+]
